@@ -35,4 +35,4 @@ The extension does not download or execute any code from the internet. All code 
 License records are kept while your license is active. To request deletion of the data associated with your license key, contact us at the address below.
 
 ## Contact
-[alimahmoudali952019@gmail.com]
+[eldosniper10@gmail.com]
